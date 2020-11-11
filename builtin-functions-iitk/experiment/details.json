@@ -1,0 +1,53 @@
+{
+
+  "details": [
+      {
+     "Experiment": "Built-in Functions",     
+     "Lab": "Python Lab",               
+     "Discipline": "Computer Science",				 
+     "Technology": "Python"         
+      }
+  ],
+
+  "developer": [
+      {       
+     "Developer": "Dr. Kantesh Balani",         
+     "Institute": "Indian Institute of Technology, Kanpur",         
+     "InstituteAcronym": "IITK"   
+      }
+  ],
+
+  "contributer": [
+      {       
+     "Contributer": "Dr. Aparna Dixit",             
+     "Institute": "Pranveer Singh Institute of Technology",               
+     "InstituteAcronym": "PSIT"         
+      },
+
+      {       
+        "Contributer": "Yash Srivastava",             
+        "Institute": "Pranveer Singh Institute of Technology",               
+        "InstituteAcronym": "PSIT"         
+      },
+
+      {       
+        "Contributer": "Pawan Kumar Yadav",             
+        "Institute": "Pranveer Singh Institute of Technology",               
+        "InstituteAcronym": "PSIT"         
+      },
+
+      {       
+        "Contributer": "Suryansh Tripathi",             
+        "Institute": "Pranveer Singh Institute of Technology",               
+        "InstituteAcronym": "PSIT"         
+      },
+
+      {       
+        "Contributer": "Sumit Yadav",             
+        "Institute": "Pranveer Singh Institute of Technology",               
+        "InstituteAcronym": "PSIT"         
+      }
+  ]
+
+}
+
